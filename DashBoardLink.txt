@@ -1,0 +1,2 @@
+Link hacia nuestro dashboard en Binder:
+https://hub.gke2.mybinder.org/user/mcsebe-tarea1_info147-1lwq41vo/voila/render/notebooks/Trabajo.ipynb
